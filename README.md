@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @debjitpaul
 - 👀 I’m interested in NLP, NLU, Deep Learning, Commonsense Reasoning
 - 🌱 I’m currently a PhD Student
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on NLP, NLU 
 - 📫 How to reach me : paul@cl.uni-heidelberg.de
 
 <!---
