@@ -2,7 +2,7 @@
 - 👀 I’m interested in NLP, NLU, Deep Learning, Commonsense Reasoning
 - 🌱 I’m currently a PhD Student
 - 💞️ I’m looking to collaborate on NLP, NLU 
-- 📫 How to reach me : paul@cl.uni-heidelberg.de
+- 📫 How to reach me : debjit.paul@epfl.ch
 
 <!---
 debjitpaul/debjitpaul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
