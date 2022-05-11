@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @debjitpaul
-- 👀 I’m interested in NLP, NLU, Deep Learning, Commonsense Reasoning
+- 👀 I’m interested in NLP, NLU, NLG, Deep Learning, Commonsense Reasoning
 - 🌱 I’m currently a PostDoc Researcher
-- 💞️ I’m looking to collaborate on NLP, NLU 
+- 💞️ I’m looking to collaborate on NLP, NLU, NLG
 - 📫 How to reach me : debjit.paul@epfl.ch
 
 <!---
